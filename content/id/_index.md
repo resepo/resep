@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - RESEP CINTA
+      - Gudang Resepku
     subtitle:
       - Koleksi lengkap resep masakan dari seluruh Indonesia
     titleColor: 
