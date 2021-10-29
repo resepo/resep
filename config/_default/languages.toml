@@ -1,12 +1,12 @@
 [en]
-  title = "Resep Cinta"
+  title = "Gudang Resepku"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
 [id]
-  title = "Resep Cinta"
+  title = "Gudang Resepku"
   languageName = "Indonesian"
   weight = 2
   languagedir = "ltr"
