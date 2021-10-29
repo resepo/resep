@@ -29,7 +29,7 @@ tags:
 - bihun
 - sayur
 - bola
-- daging(#318)
+- daging
 
 katakunci: Sup bihun sayur bola daging(#318)
 recipecuisine: Indonesian
