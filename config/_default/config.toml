@@ -8,7 +8,7 @@ hasCJKLanguage = true
 disableLanguages = ['en']
 
 summaryLength = 70
-buildFuture = true
+buildFuture = false
 
 copyright = "&copy;{year} All Rights Reserved"
 timeout = 10000
