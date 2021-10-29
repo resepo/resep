@@ -1,0 +1,13 @@
+[en]
+  title = "Resep Cinta"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[id]
+  title = "Resep Cinta"
+  languageName = "Indonesian"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/id"
